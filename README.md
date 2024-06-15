@@ -29,7 +29,7 @@ Tab:AddLabel("City Farm")
 local toggleLoop = false
 
 Tab:AddToggle({
-    Name = "toggle!",
+    Name = "Hoop V1",
     Default = false,
     Callback = function(Value)
         toggleLoop = Value
